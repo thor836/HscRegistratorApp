@@ -1,5 +1,5 @@
 # Реєстрація талона в СЦ МВС
 
-телеграм: @nbd08
+телеграм: [@nbd08](https://t.me/nbd08)
 
-Завантажити: https://github.com/thor836/HscRegistratorApp/releases/download/v1.1/HscRegistrator.zip
+[Завантажити](https://github.com/thor836/HscRegistratorApp/releases/download/v1.1/HscRegistrator.zip)
